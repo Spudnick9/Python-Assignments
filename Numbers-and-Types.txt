@@ -18,3 +18,9 @@ print(answer1)
 ##3.6 Made a variable for the answer in integer form##
 answer2 = int(seconds_per_day)/int(seconds_per_hour)
 print(int(answer2))
+
+##outputs##
+##3600##
+##864000##
+##24.0##
+##24##
